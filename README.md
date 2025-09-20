@@ -1,5 +1,5 @@
 # Insurance Policy & Management System
-**Salesforce Project - TCS Internship**
+**Salesforce Project**
 
 ## Project Overview
 This repository contains the complete **Insurance Policy & Claim Management System** built on Salesforce. 
